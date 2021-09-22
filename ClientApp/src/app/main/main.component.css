@@ -1,0 +1,94 @@
+#AppBody {
+  width: 100%;
+  float: left;
+  height: 100vh;
+}
+
+#dvHeader {
+  width: 100%;
+  height: 10%;
+  float: left;  
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+#dvMiddle {
+  width: 100%;
+  height: 65%;
+  float: left;
+}
+#dvFooter {
+  width: 100%;
+  height: 20%;
+  float: left;
+  background-color: #262627;
+}
+#dvCopyrights {
+  width: 100%;
+  height: 5%;
+  float: left;
+  background: #2D2D32 0% 0% no-repeat padding-box;
+  text-align:center;
+}
+
+#dvLogo {
+  width: 80%;
+  float: left;
+  height: 100%;
+}
+#dvContactUs {
+  width: 19%;
+  float: left;
+  height: 100%;
+}
+
+.imgTitle {
+  margin-left: 3%;
+  margin-top: 1%;
+  width:45px;
+}
+
+#contactUs {
+  color: #003E51;
+  font-weight:bold;
+  margin-left: 50px;
+  margin-top:25px;
+}
+
+#dvFooterLogo {
+  width: 24.5%;
+  float: left;
+  height: 100%;
+}
+#dvFooterInfo1 {
+  width: 24.5%;
+  float: left;
+  height: 100%;
+}
+
+#dvFooterInfo2 {
+  width: 24.5%;
+  float: left;
+  height: 100%;
+}
+
+#dvFooterTerms {
+  width: 24%;
+  float: left;
+  height: 100%;
+}
+
+.dvImgFooter {
+    margin-top:10%;
+    margin-left:15%;
+    float:left;
+}
+
+.btnSubscribe {
+  background: #D6B498 0% 0% no-repeat padding-box;
+  border-radius: 7px;
+  opacity: 1;
+  color: white;
+  margin-left: 10px;
+}
